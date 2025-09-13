@@ -55,4 +55,3 @@ echo
 echo "To run your game later, upload it to the server and run:"
 echo "wine your-game.exe"
 
-
